@@ -1,0 +1,38 @@
+﻿  stdafx.cpp
+  MonitorApp.cpp
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(95): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(96): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(97): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(98): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(103): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(104): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(105): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(106): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(123): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(124): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(125): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(126): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(355): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(356): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(357): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(358): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(363): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(364): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(365): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(366): warning C4244: '=': 將 'DWORDLONG' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(383): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(384): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(385): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(386): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(389): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(390): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(391): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(392): warning C4244: '=': 將 '__int64' 轉換為 'double'，由於類型不同，可能導致資料遺失
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(505): warning C4307: '*': 整數常數溢位
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(506): warning C4307: '*': 整數常數溢位
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(511): warning C4307: '*': 整數常數溢位
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(512): warning C4307: '*': 整數常數溢位
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(506): warning C4723: 可能除以 0
+c:\users\92233\desktop\monitorapp_visualstudio2013\monitorapp\monitorapp\monitorapp.cpp(512): warning C4723: 可能除以 0
+  MonitorApp.vcxproj -> C:\Users\92233\Desktop\MonitorApp_VisualStudio2013\MonitorApp\Debug\MonitorApp.exe
+  MonitorApp.vcxproj -> C:\Users\92233\Desktop\MonitorApp_VisualStudio2013\MonitorApp\Debug\MonitorApp.pdb (Full PDB)
